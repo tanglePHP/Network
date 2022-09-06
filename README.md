@@ -36,12 +36,12 @@ _The aim of the this lib is to offer PHP developers an easy way to interact with
 
 + PHP 8+
 + PHP Library:
-    + [tanglePHP/Core](https://github.com/tanglePHP/Core)
-    + [tanglePHP/SingleNodeClient](https://github.com/tanglePHP/SingleNodeClient)
-    + [tanglePHP/IndexerPlugin](https://github.com/tanglePHP/IndexerPlugin)
-    + [tanglePHP/MarketClient](https://github.com/tanglePHP/MarketClient)
-    + [tanglePHP/FaucetClient](https://github.com/tanglePHP/FaucetClient)
-    + [tanglePHP/ChronicleClient](https://github.com/tanglePHP/ChronicleClient)
+    + [tanglePHP/core](https://github.com/tanglePHP/core)
+    + [tanglePHP/singlenode-client](https://github.com/tanglePHP/singlenode-client)
+    + [tanglePHP/indexer-plugin](https://github.com/tanglePHP/indexer-plugin)
+    + [tanglePHP/market-client](https://github.com/tanglePHP/market-client)
+    + [tanglePHP/faucet-client](https://github.com/tanglePHP/faucet-client)
+    + [tanglePHP/chronicle-client](https://github.com/tanglePHP/chronicle-client)
 
 ---
 
