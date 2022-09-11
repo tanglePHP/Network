@@ -77,10 +77,12 @@ final class Connect {
   public function __construct(string $url = null) {
     switch($url) {
       case 'devnet':
+      case 'iota:devnet':
       case 'chrysalis:devnet':
         $url = (new chrysalis_devnet($this))->getURL();
         break;
       case 'mainnet':
+      case 'iota:mainnet':
       case 'chrysalis:mainnet':
         $url = (new chrysalis_mainnet($this))->getURL();
         break;
