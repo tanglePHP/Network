@@ -26,7 +26,6 @@
   "require": {
     "php": ">=8.1.0",
     "tanglephp/core": "*",
-    "tanglephp/network": "*",
     "tanglephp/singlenode-client": "*",
     "tanglephp/indexer-plugin": "*",
     "tanglephp/faucet-client": "*",
